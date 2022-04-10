@@ -1,0 +1,49 @@
+{
+  "processesCount": 6,
+  "data": [
+    {
+      "id": 0,
+      "arrivalTime": 0,
+      "serviceTime": 3,
+      "priority": 1,
+      "timeSlice": 3
+    },
+    {
+      "id": 1,
+      "arrivalTime": 2,
+      "serviceTime": 6,
+      "priority": 1,
+      "timeSlice": 6
+    },
+    {
+      "id": 2,
+      "arrivalTime": 4,
+      "serviceTime": 4,
+      "priority": 1,
+      "timeSlice": 4
+    },
+    {
+      "id": 3,
+      "arrivalTime": 6,
+      "serviceTime": 5,
+      "priority": 1,
+      "timeSlice": 5
+    },
+    {
+      "id": 4,
+      "arrivalTime": 8,
+      "serviceTime": 1,
+      "priority": 1,
+      "timeSlice": 1
+    },
+
+
+    {
+      "id": 0,
+      "arrivalTime": 20,
+      "serviceTime": 1,
+      "priority": 1,
+      "timeSlice": 1
+    }
+  ]
+}
